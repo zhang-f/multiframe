@@ -1,3 +1,3 @@
-1. load the code from Campro
+1. load the code from Campro, also setup the pretrained weights from Campro.
 
-2. Add the code into `src`
+2. Add the code into `src`.
